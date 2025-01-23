@@ -8,29 +8,38 @@ Follow these steps to get started with the project:
 
 ```bash
 # Install dependencies
+```bash
 npm i 
+```
 
 # Build the application for Windows
-npm run dist:win 
+```bash
+npm run dist:win
+```
 
 # Run the Electron app in development mode
-npm run dev:electron 
+```bash
+npm run dev:electron
+```
 
 # Run the React app locally in the browser (http://localhost:3000)
+```bash
 npm run dev:react
-
+```
 # Running the Built Application
+
 # First, run the necessary commands to build the application:
+```bash
 npm i
 npm run dist:win
-
+```
 # Navigate to the output folder:
+```bash
 cd dist\win-unpacked\
-
+```
 # Locate and run the executable file:
+```bash
 ./amida-test-app.exe
-
-
 ```
 
 # Notes
