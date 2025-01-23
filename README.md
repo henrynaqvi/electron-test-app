@@ -6,7 +6,7 @@ A simple Electron application integrated with React for quick development and te
 
 Follow these steps to get started with the project:
 
-```bash
+
 # Install dependencies
 ```bash
 npm i 
