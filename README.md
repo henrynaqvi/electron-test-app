@@ -20,7 +20,7 @@ npm run dev:electron
 npm run dev:react
 ```
 
-# Running the Built Application
+# Running the Buid
 
 # First, run the necessary commands to build the application:
 ```bash
