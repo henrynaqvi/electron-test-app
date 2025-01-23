@@ -6,26 +6,20 @@ A simple Electron application integrated with React for quick development and te
 
 Follow these steps to get started with the project:
 
-
-# Install dependencies
 ```bash
+# Install dependencies
 npm i 
-```
 
 # Build the application for Windows
-```bash
 npm run dist:win
-```
 
 # Run the Electron app in development mode
-```bash
 npm run dev:electron
-```
 
 # Run the React app locally in the browser (http://localhost:3000)
-```bash
 npm run dev:react
 ```
+
 # Running the Built Application
 
 # First, run the necessary commands to build the application:
