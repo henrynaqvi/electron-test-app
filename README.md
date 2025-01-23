@@ -18,3 +18,22 @@ npm run dev:electron
 
 # Run the React app locally in the browser (http://localhost:3000)
 npm run dev:react
+
+# Running the Built Application
+# First, run the necessary commands to build the application:
+npm i
+npm run dist:win
+
+# Navigate to the output folder:
+cd dist\win-unpacked\
+
+# Locate and run the executable file:
+./amida-test-app.exe
+
+
+```
+
+# Notes
+
+- Ensure that you have Node.js and npm installed before running the commands.
+- For troubleshooting or further details, feel free to reach out!
